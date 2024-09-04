@@ -5,12 +5,8 @@
 <loc>https://aoyama798.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://aoyama798.github.io/blog/shouhou/</loc>
-<lastmod>2024-09-04T12:13:51+08:00</lastmod>
-</url>
-<url>
-<loc>https://aoyama798.github.io/blog/test-2/</loc>
-<lastmod>2024-09-04T11:31:13+08:00</lastmod>
+<loc>https://aoyama798.github.io/blog/addon/</loc>
+<lastmod>2024-09-04T12:25:25+08:00</lastmod>
 <image:image>
 <image:loc>https://aoyama798.github.io/blog/media/posts/5/AnkiCha-Jian-Fen-Xiang_1_aoyama798_Lai-Zi-Xiao-Hong-Shu-Wang-Ye-Ban.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -19,5 +15,9 @@
 <image:loc>https://aoyama798.github.io/blog/media/posts/5/0a789a5769d44bb3a5df95129973b9d7.jpg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
+</url>
+<url>
+<loc>https://aoyama798.github.io/blog/shouhou/</loc>
+<lastmod>2024-09-04T12:27:31+08:00</lastmod>
 </url>
 </urlset>
