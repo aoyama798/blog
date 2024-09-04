@@ -3,7 +3,7 @@
     <title>aoyama798</title>
     <link href="https://aoyama798.github.io/blog/feed.xml" rel="self" />
     <link href="https://aoyama798.github.io/blog" />
-    <updated>2024-09-03T16:25:36+08:00</updated>
+    <updated>2024-09-04T09:47:23+08:00</updated>
     <author>
         <name>aoyama798</name>
     </author>
@@ -14,12 +14,15 @@
         <author>
             <name>aoyama798</name>
         </author>
-        <link href="https://aoyama798.github.io/blog/xu-tao-lesslesshe-xin-kao-angreatergreater-ankiwen-zi-ban-qandashou-hou.html"/>
-        <id>https://aoyama798.github.io/blog/xu-tao-lesslesshe-xin-kao-angreatergreater-ankiwen-zi-ban-qandashou-hou.html</id>
+        <link href="https://aoyama798.github.io/blog/he-xin-kao-an-ankishou-hou.html"/>
+        <id>https://aoyama798.github.io/blog/he-xin-kao-an-ankishou-hou.html</id>
+        <media:content url="https://aoyama798.github.io/blog/media/posts/1/ankilogo.jpg" medium="image" />
+            <category term="anki"/>
 
         <updated>2024-09-03T15:36:34+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://aoyama798.github.io/blog/media/posts/1/ankilogo.jpg" alt="核心考案anki" />
                     <h1>（一）学习相关📕</h1>
 <ol>
 <li>核心考案为我考研所用的2024版，基础知识都是一样的。</li>
@@ -50,6 +53,7 @@
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://aoyama798.github.io/blog/media/posts/1/ankilogo.jpg" class="type:primaryImage" alt="核心考案anki" /></p>
                 <h1>（一）学习相关📕</h1>
 <ol>
 <li>核心考案为我考研所用的2024版，基础知识都是一样的。</li>
