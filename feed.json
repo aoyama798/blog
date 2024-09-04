@@ -5,48 +5,10 @@
     "home_page_url": "https://aoyama798.github.io/blog",
     "feed_url": "https://aoyama798.github.io/blog/feed.json",
     "user_comment": "",
+    "icon": "https://aoyama798.github.io/blog/media/website/Tou-Xiang-removebg-preview.png",
     "author": {
         "name": "aoyama798"
     },
     "items": [
-        {
-            "id": "https://aoyama798.github.io/blog/3/",
-            "url": "https://aoyama798.github.io/blog/3/",
-            "title": "3",
-            "author": {
-                "name": "aoyama798"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-09-04T10:01:18+08:00",
-            "date_modified": "2024-09-04T10:01:18+08:00"
-        },
-        {
-            "id": "https://aoyama798.github.io/blog/2/",
-            "url": "https://aoyama798.github.io/blog/2/",
-            "title": "2",
-            "author": {
-                "name": "aoyama798"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-09-04T10:01:14+08:00",
-            "date_modified": "2024-09-04T10:01:14+08:00"
-        },
-        {
-            "id": "https://aoyama798.github.io/blog/he-xin-kao-an-ankishou-hou/",
-            "url": "https://aoyama798.github.io/blog/he-xin-kao-an-ankishou-hou/",
-            "title": "徐涛-《核心考案》anki文字版  Q&amp;A售后",
-            "summary": "<h1>（一）学习相关📕</h1>\n<ol>\n<li>核心考案为我考研所用的2024版，基础知识都是一样的。</li>\n<li>时事政治部分每年都不一样，需要看肖四肖八。</li>\n<li>卡片数量总计1105张，建议每日固定浏览复习眼熟，后期主要靠刷题巩固记忆。</li>\n</ol>\n<h1>（二）软件相关💻</h1>\n<ol>\n<li>推荐使用软件：官方开源软件<br>·安卓：<strong><span style=\"color: #2dc26b;\">ankidroid</span></strong>（免费）<a href=\"https://github.com/ankidroid/Anki-Android/releases\">Releases · ankidroid/Anki-Android (github.com)</a><br>·苹果IOS：<strong><span style=\"color: #2dc26b;\">anki-mobile</span></strong>（￥168，可在淘宝几块钱购买）<a href=\"https://apps.apple.com/cn/app/ankimobile-flashcards/id373493387\">App Store 上的“AnkiMobile Flashcards” (apple.com)</a><br>·桌面版（mac+windows）：<strong><span style=\"color: #2dc26b;\">anki</span></strong>（免费）<a href=\"https://apps.ankiweb.net/\">Anki - powerful, intelligent flashcards (ankiweb.net)</a></li>\n<li><span style=\"text-decoration: line-through; color: #e03e2d;\">不推荐</span>：国人开发套壳软件，功能阉割<br><span style=\"text-decoration: line-through;\"><span style=\"color: #e03e2d; text-decoration: line-through;\">·记乎</span></span><br><span style=\"text-decoration: line-through;\"><span style=\"color: #e03e2d; text-decoration: line-through;\">·anki记忆卡</span></span><br><span style=\"text-decoration: line-through;\"><span style=\"color: #e03e2d; text-decoration: line-through;\">·anymo</span></span><br><span style=\"text-decoration: line-through;\"><span style=\"color: #e03e2d; text-decoration: line-through;\">·其他</span></span></li>\n</ol>\n<h1>（三）显示顺序问题🔗</h1>\n<ol>\n<li>cloze-overlapping模板使只是代理一条一条显示，其余隐藏，专注背诵记忆单一知识点。<br><figure class=\"post__image\"><img  src=\"https://img.picgo.net/2024/09/03/idlefish-msg-1725350879554.pngb097626e684d467d.jpg\" alt=\"\" width=\"828\" height=\"1792\" data-is-external-image=\"true\"></figure><video loading=\"lazy\" width=\"300\" height=\"150\" src=\"https://img.picgo.net/2024/09/03/19cfdddc0bf74ede86efd259e520c2ae1147ffdc0800331d.mp4\" controls=\"controls\" poster=\"https://img.picgo.net/2024/09/03/19cfdddc0bf74ede86efd259e520c2ae1147ffdc0800331d.fr.jpeg\"></video></li>\n<li>需要进行以下设置：牌组选项→<br>\n<figure class=\"post__video\">·新卡片——插入位置：顺序插入（旧卡片在前）<br>·展示顺序——新卡片抽取顺序：按牌组顺序<br>                      新卡片排列顺序：按抽取顺序<br><video loading=\"lazy\" width=\"500\" height=\"500\" src=\"https://img.picgo.net/2024/09/03/1cd3ae96aed90888d.mp4\" controls=\"controls\" poster=\"https://img.picgo.net/2024/09/03/1cd3ae96aed90888d.fr.jpeg\"></video></figure>\n</li>\n<li>注意：只支持上述三个推荐的官方app，阉割软件无此功能。它们会在考点间来回跳。</li>\n<li>不想更换app或者设置？作者也提供普通basic模板，只有单纯正反面，可联系我邮箱使用。<br><video loading=\"lazy\" width=\"300\" height=\"150\" src=\"https://img.picgo.net/2024/09/03/basic483b9d087f7b6d1f.mp4\" controls=\"controls\" poster=\"https://img.picgo.net/2024/09/03/basic483b9d087f7b6d1f.fr.jpeg\"></video></li>\n</ol>\n<h1>（四）退款💴</h1>\n<ul>\n<li>上述可提供解决方案，除以上问题外可退款</li>\n<li>虚拟产品原则上不退款，感谢理解</li>\n</ul>\n",
-            "image": "https://aoyama798.github.io/blog/media/posts/1/ankilogo.jpg",
-            "author": {
-                "name": "aoyama798"
-            },
-            "tags": [
-                   "anki"
-            ],
-            "date_published": "2024-09-03T15:36:34+08:00",
-            "date_modified": "2024-09-04T10:11:40+08:00"
-        }
     ]
 }
