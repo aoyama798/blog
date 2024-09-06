@@ -3,12 +3,28 @@
     <title>aoyama798</title>
     <link href="https://aoyama798.icu/feed.xml" rel="self" />
     <link href="https://aoyama798.icu" />
-    <updated>2024-09-06T10:58:51+08:00</updated>
+    <updated>2024-09-06T11:09:07+08:00</updated>
     <author>
         <name>aoyama798</name>
     </author>
     <id>https://aoyama798.icu</id>
 
+    <entry>
+        <title>个人简介</title>
+        <author>
+            <name>aoyama798</name>
+        </author>
+        <link href="https://aoyama798.icu/ge-ren-jian-jie/"/>
+        <id>https://aoyama798.icu/ge-ren-jian-jie/</id>
+
+        <updated>2024-09-06T11:09:07+08:00</updated>
+            <summary>
+                <![CDATA[
+                    anki爱好者 骨科专硕、住院医师
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>核心考案售后备用链接</title>
         <author>
@@ -18,7 +34,11 @@
         <id>https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/</id>
 
         <updated>2024-09-06T10:57:19+08:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                    链接1（息流） 链接2（blog2）
+                ]]>
+            </summary>
         <content></content>
     </entry>
 </feed>
