@@ -11,9 +11,21 @@
     },
     "items": [
         {
+            "id": "https://aoyama798.icu/chang-chang-wo-de-shou-yi/",
+            "url": "https://aoyama798.icu/chang-chang-wo-de-shou-yi/",
+            "title": "尝尝我的手艺",
+            "author": {
+                "name": "aoyama798"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-10T13:09:37+08:00",
+            "date_modified": "2024-09-10T13:09:37+08:00"
+        },
+        {
             "id": "https://aoyama798.icu/ankitu-pian-cha-kan-qi-mo-ban/",
             "url": "https://aoyama798.icu/ankitu-pian-cha-kan-qi-mo-ban/",
-            "title": "anki图片查看器模板",
+            "title": "anki图片查看器",
             "summary": "链接",
             "author": {
                 "name": "aoyama798"
@@ -21,33 +33,33 @@
             "tags": [
             ],
             "date_published": "2024-09-06T12:44:12+08:00",
-            "date_modified": "2024-09-06T12:44:12+08:00"
+            "date_modified": "2024-09-10T13:29:24+08:00"
         },
         {
             "id": "https://aoyama798.icu/ge-ren-jian-jie/",
             "url": "https://aoyama798.icu/ge-ren-jian-jie/",
             "title": "个人简介",
-            "summary": "anki爱好者 骨科专硕、住院医师",
+            "summary": "anki爱好者 从大一开始使用anki，最开始用来学习英语、日语。后来逐渐用anki全盘托管医学专业课，再后来为了满足自己的需要，学了些JavaScript、html、css基础，自定义编写了很多模板。到现在分享售卖笔记，很开心。 无限进步 会一些基础翻板招式，kickflip、trefip、bs&hellip;",
             "author": {
                 "name": "aoyama798"
             },
             "tags": [
             ],
             "date_published": "2024-09-06T11:09:07+08:00",
-            "date_modified": "2024-09-06T11:09:07+08:00"
+            "date_modified": "2024-09-10T13:31:31+08:00"
         },
         {
             "id": "https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/",
             "url": "https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/",
-            "title": "核心考案售后",
-            "summary": "链接1（内部链接） 链接2（息流） 链接3（备用blog2）",
+            "title": "anki核心考案-售后",
+            "summary": "推荐链接1（内部链接） 备用链接2（息流） 备用链接3（github）",
             "author": {
                 "name": "aoyama798"
             },
             "tags": [
             ],
             "date_published": "2024-09-06T10:57:19+08:00",
-            "date_modified": "2024-09-06T18:58:35+08:00"
+            "date_modified": "2024-09-10T13:30:54+08:00"
         }
     ]
 }

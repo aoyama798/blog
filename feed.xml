@@ -3,14 +3,26 @@
     <title>aoyama798</title>
     <link href="https://aoyama798.icu/feed.xml" rel="self" />
     <link href="https://aoyama798.icu" />
-    <updated>2024-09-06T18:58:35+08:00</updated>
+    <updated>2024-09-10T13:31:31+08:00</updated>
     <author>
         <name>aoyama798</name>
     </author>
     <id>https://aoyama798.icu</id>
 
     <entry>
-        <title>anki图片查看器模板</title>
+        <title>尝尝我的手艺</title>
+        <author>
+            <name>aoyama798</name>
+        </author>
+        <link href="https://aoyama798.icu/chang-chang-wo-de-shou-yi/"/>
+        <id>https://aoyama798.icu/chang-chang-wo-de-shou-yi/</id>
+
+        <updated>2024-09-10T13:09:37+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>anki图片查看器</title>
         <author>
             <name>aoyama798</name>
         </author>
@@ -36,13 +48,13 @@
         <updated>2024-09-06T11:09:07+08:00</updated>
             <summary>
                 <![CDATA[
-                    anki爱好者 骨科专硕、住院医师
+                    anki爱好者 从大一开始使用anki，最开始用来学习英语、日语。后来逐渐用anki全盘托管医学专业课，再后来为了满足自己的需要，学了些JavaScript、html、css基础，自定义编写了很多模板。到现在分享售卖笔记，很开心。 无限进步 会一些基础翻板招式，kickflip、trefip、bs&hellip;
                 ]]>
             </summary>
         <content></content>
     </entry>
     <entry>
-        <title>核心考案售后</title>
+        <title>anki核心考案-售后</title>
         <author>
             <name>aoyama798</name>
         </author>
@@ -52,7 +64,7 @@
         <updated>2024-09-06T10:57:19+08:00</updated>
             <summary>
                 <![CDATA[
-                    链接1（内部链接） 链接2（息流） 链接3（备用blog2）
+                    推荐链接1（内部链接） 备用链接2（息流） 备用链接3（github）
                 ]]>
             </summary>
         <content></content>
