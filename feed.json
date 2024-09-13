@@ -5,11 +5,36 @@
     "home_page_url": "https://aoyama798.icu",
     "feed_url": "https://aoyama798.icu/feed.json",
     "user_comment": "",
-    "icon": "https://aoyama798.icu/media/website/Tou-Xiang-removebg-preview-3.png",
+    "icon": "https://aoyama798.icu/media/website/Tou-Xiang-removebg-preview.png",
     "author": {
         "name": "aoyama798"
     },
     "items": [
+        {
+            "id": "https://aoyama798.icu/anki-connectcha-jian-python-2/",
+            "url": "https://aoyama798.icu/anki-connectcha-jian-python-2/",
+            "title": "anki connect插件+python",
+            "author": {
+                "name": "aoyama798"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-13T11:19:02+08:00",
+            "date_modified": "2024-09-13T11:19:02+08:00"
+        },
+        {
+            "id": "https://aoyama798.icu/ankicha-jian-fen-xiang/",
+            "url": "https://aoyama798.icu/ankicha-jian-fen-xiang/",
+            "title": "anki插件分享",
+            "summary": "anki的插件十分丰富： （一）Custom Styles font&hellip;",
+            "author": {
+                "name": "aoyama798"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-09-13T11:17:59+08:00",
+            "date_modified": "2024-09-13T11:18:17+08:00"
+        },
         {
             "id": "https://aoyama798.icu/wu-xian-jin-bu/",
             "url": "https://aoyama798.icu/wu-xian-jin-bu/",
@@ -24,29 +49,17 @@
             "date_modified": "2024-09-10T22:45:10+08:00"
         },
         {
-            "id": "https://aoyama798.icu/chang-chang-wo-de-shou-yi/",
-            "url": "https://aoyama798.icu/chang-chang-wo-de-shou-yi/",
-            "title": "尝尝我的手艺",
-            "author": {
-                "name": "aoyama798"
-            },
-            "tags": [
-            ],
-            "date_published": "2024-09-10T13:09:37+08:00",
-            "date_modified": "2024-09-10T13:09:37+08:00"
-        },
-        {
             "id": "https://aoyama798.icu/ankitu-pian-cha-kan-qi-mo-ban/",
             "url": "https://aoyama798.icu/ankitu-pian-cha-kan-qi-mo-ban/",
-            "title": "anki图片查看器",
-            "summary": "链接",
+            "title": "anki图片查看模板",
+            "summary": "（一）效果及作用：使anki中所有的图片缩放为微缩图，点击图片放大，并支持移动、缩放、快捷键。 目前有一点bug我还修复不了，谁来帮帮我？😭移动后松开鼠标，图片会回到原来的位置。 （二）使用方法：将代码直接粘贴到笔记的背面模板里面。 （三）代码：&hellip;",
             "author": {
                 "name": "aoyama798"
             },
             "tags": [
             ],
             "date_published": "2024-09-06T12:44:12+08:00",
-            "date_modified": "2024-09-10T13:29:24+08:00"
+            "date_modified": "2024-09-13T11:15:35+08:00"
         },
         {
             "id": "https://aoyama798.icu/ge-ren-jian-jie/",
@@ -59,20 +72,20 @@
             "tags": [
             ],
             "date_published": "2024-09-06T11:09:07+08:00",
-            "date_modified": "2024-09-10T13:31:31+08:00"
+            "date_modified": "2024-09-13T11:17:37+08:00"
         },
         {
             "id": "https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/",
             "url": "https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/",
             "title": "anki核心考案-售后",
-            "summary": "推荐链接1（内部链接） 备用链接2（息流） 备用链接3（github）",
+            "summary": "注意：只支持上述三个推荐的官方app，阉割软件无此功能。它们会在考点间来回跳。 购买链接🔗：考研政治-徐涛-25核心考案-马列思修史纲习中特肖八肖四Anki中文资源网 (ankichinas.cn) 联系作者📧：xiao20020220@qq.com&hellip;",
             "author": {
                 "name": "aoyama798"
             },
             "tags": [
             ],
             "date_published": "2024-09-06T10:57:19+08:00",
-            "date_modified": "2024-09-10T13:30:54+08:00"
+            "date_modified": "2024-09-13T11:22:30+08:00"
         }
     ]
 }

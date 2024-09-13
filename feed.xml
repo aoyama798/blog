@@ -3,12 +3,40 @@
     <title>aoyama798</title>
     <link href="https://aoyama798.icu/feed.xml" rel="self" />
     <link href="https://aoyama798.icu" />
-    <updated>2024-09-10T22:45:10+08:00</updated>
+    <updated>2024-09-13T11:22:30+08:00</updated>
     <author>
         <name>aoyama798</name>
     </author>
     <id>https://aoyama798.icu</id>
 
+    <entry>
+        <title>anki connect插件+python</title>
+        <author>
+            <name>aoyama798</name>
+        </author>
+        <link href="https://aoyama798.icu/anki-connectcha-jian-python-2/"/>
+        <id>https://aoyama798.icu/anki-connectcha-jian-python-2/</id>
+
+        <updated>2024-09-13T11:19:02+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>anki插件分享</title>
+        <author>
+            <name>aoyama798</name>
+        </author>
+        <link href="https://aoyama798.icu/ankicha-jian-fen-xiang/"/>
+        <id>https://aoyama798.icu/ankicha-jian-fen-xiang/</id>
+
+        <updated>2024-09-13T11:17:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    anki的插件十分丰富： （一）Custom Styles font&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>无限进步</title>
         <author>
@@ -26,19 +54,7 @@
         <content></content>
     </entry>
     <entry>
-        <title>尝尝我的手艺</title>
-        <author>
-            <name>aoyama798</name>
-        </author>
-        <link href="https://aoyama798.icu/chang-chang-wo-de-shou-yi/"/>
-        <id>https://aoyama798.icu/chang-chang-wo-de-shou-yi/</id>
-
-        <updated>2024-09-10T13:09:37+08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>anki图片查看器</title>
+        <title>anki图片查看模板</title>
         <author>
             <name>aoyama798</name>
         </author>
@@ -48,7 +64,7 @@
         <updated>2024-09-06T12:44:12+08:00</updated>
             <summary>
                 <![CDATA[
-                    链接
+                    （一）效果及作用：使anki中所有的图片缩放为微缩图，点击图片放大，并支持移动、缩放、快捷键。 目前有一点bug我还修复不了，谁来帮帮我？😭移动后松开鼠标，图片会回到原来的位置。 （二）使用方法：将代码直接粘贴到笔记的背面模板里面。 （三）代码：&hellip;
                 ]]>
             </summary>
         <content></content>
@@ -80,7 +96,7 @@
         <updated>2024-09-06T10:57:19+08:00</updated>
             <summary>
                 <![CDATA[
-                    推荐链接1（内部链接） 备用链接2（息流） 备用链接3（github）
+                    注意：只支持上述三个推荐的官方app，阉割软件无此功能。它们会在考点间来回跳。 购买链接🔗：考研政治-徐涛-25核心考案-马列思修史纲习中特肖八肖四Anki中文资源网 (ankichinas.cn) 联系作者📧：xiao20020220@qq.com&hellip;
                 ]]>
             </summary>
         <content></content>
