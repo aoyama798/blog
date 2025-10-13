@@ -1,18 +1,18 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "aoyama798",
+    "title": "aoyama798（主网站暂停使用）",
     "description": "",
-    "home_page_url": "https://aoyama798.icu",
-    "feed_url": "https://aoyama798.icu/feed.json",
+    "home_page_url": "https://aoyama798.github.io/blog",
+    "feed_url": "https://aoyama798.github.io/blog/feed.json",
     "user_comment": "",
-    "icon": "https://aoyama798.icu/media/website/Tou-Xiang-removebg-preview.png",
+    "icon": "https://aoyama798.github.io/blog/media/website/Tou-Xiang-removebg-preview.png",
     "author": {
         "name": "aoyama798"
     },
     "items": [
         {
-            "id": "https://aoyama798.icu/anki-connectcha-jian-python-2/",
-            "url": "https://aoyama798.icu/anki-connectcha-jian-python-2/",
+            "id": "https://aoyama798.github.io/blog/anki-connectcha-jian-python-2/",
+            "url": "https://aoyama798.github.io/blog/anki-connectcha-jian-python-2/",
             "title": "anki connect插件+python",
             "author": {
                 "name": "aoyama798"
@@ -23,8 +23,8 @@
             "date_modified": "2024-09-13T11:19:02+08:00"
         },
         {
-            "id": "https://aoyama798.icu/ankicha-jian-fen-xiang/",
-            "url": "https://aoyama798.icu/ankicha-jian-fen-xiang/",
+            "id": "https://aoyama798.github.io/blog/ankicha-jian-fen-xiang/",
+            "url": "https://aoyama798.github.io/blog/ankicha-jian-fen-xiang/",
             "title": "anki插件分享",
             "summary": "anki的插件十分丰富： （一）Custom Styles font&hellip;",
             "author": {
@@ -36,8 +36,8 @@
             "date_modified": "2024-09-13T11:18:17+08:00"
         },
         {
-            "id": "https://aoyama798.icu/wu-xian-jin-bu/",
-            "url": "https://aoyama798.icu/wu-xian-jin-bu/",
+            "id": "https://aoyama798.github.io/blog/wu-xian-jin-bu/",
+            "url": "https://aoyama798.github.io/blog/wu-xian-jin-bu/",
             "title": "无限进步",
             "summary": "规培 一、复习对应轮转科室 二、复习+练习外科基本操作 三、值班常用医嘱处理：&hellip;",
             "author": {
@@ -49,8 +49,8 @@
             "date_modified": "2024-09-10T22:45:10+08:00"
         },
         {
-            "id": "https://aoyama798.icu/ankitu-pian-cha-kan-qi-mo-ban/",
-            "url": "https://aoyama798.icu/ankitu-pian-cha-kan-qi-mo-ban/",
+            "id": "https://aoyama798.github.io/blog/ankitu-pian-cha-kan-qi-mo-ban/",
+            "url": "https://aoyama798.github.io/blog/ankitu-pian-cha-kan-qi-mo-ban/",
             "title": "anki图片查看模板",
             "summary": "（一）效果及作用：使anki中所有的图片缩放为微缩图，点击图片放大，并支持移动、缩放、快捷键。 目前有一点bug我还修复不了，谁来帮帮我？😭移动后松开鼠标，图片会回到原来的位置。 （二）使用方法：将代码直接粘贴到笔记的背面模板里面。 （三）代码：&hellip;",
             "author": {
@@ -62,8 +62,8 @@
             "date_modified": "2024-09-13T11:15:35+08:00"
         },
         {
-            "id": "https://aoyama798.icu/ge-ren-jian-jie/",
-            "url": "https://aoyama798.icu/ge-ren-jian-jie/",
+            "id": "https://aoyama798.github.io/blog/ge-ren-jian-jie/",
+            "url": "https://aoyama798.github.io/blog/ge-ren-jian-jie/",
             "title": "个人简介",
             "summary": "anki爱好者 从大一开始使用anki，最开始用来学习英语、日语。后来逐渐用anki全盘托管医学专业课，再后来为了满足自己的需要，学了些JavaScript、html、css基础，自定义编写了很多模板。到现在分享售卖笔记，很开心。 无限进步 会一些基础翻板招式，kickflip、trefip、bs&hellip;",
             "author": {
@@ -75,8 +75,8 @@
             "date_modified": "2024-09-13T11:17:37+08:00"
         },
         {
-            "id": "https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/",
-            "url": "https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/",
+            "id": "https://aoyama798.github.io/blog/he-xin-kao-an-shou-hou-bei-yong-lian-jie/",
+            "url": "https://aoyama798.github.io/blog/he-xin-kao-an-shou-hou-bei-yong-lian-jie/",
             "title": "anki核心考案-售后",
             "summary": "注意：只支持上述三个推荐的官方app，阉割软件无此功能。它们会在考点间来回跳。 购买链接🔗：考研政治-徐涛-25核心考案-马列思修史纲习中特肖八肖四Anki中文资源网 (ankichinas.cn) 联系作者📧：xiao20020220@qq.com&hellip;",
             "author": {

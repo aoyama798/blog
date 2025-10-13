@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>aoyama798</title>
-    <link href="https://aoyama798.icu/feed.xml" rel="self" />
-    <link href="https://aoyama798.icu" />
+    <title>aoyama798（主网站暂停使用）</title>
+    <link href="https://aoyama798.github.io/blog/feed.xml" rel="self" />
+    <link href="https://aoyama798.github.io/blog" />
     <updated>2024-09-13T11:22:30+08:00</updated>
     <author>
         <name>aoyama798</name>
     </author>
-    <id>https://aoyama798.icu</id>
+    <id>https://aoyama798.github.io/blog</id>
 
     <entry>
         <title>anki connect插件+python</title>
         <author>
             <name>aoyama798</name>
         </author>
-        <link href="https://aoyama798.icu/anki-connectcha-jian-python-2/"/>
-        <id>https://aoyama798.icu/anki-connectcha-jian-python-2/</id>
+        <link href="https://aoyama798.github.io/blog/anki-connectcha-jian-python-2/"/>
+        <id>https://aoyama798.github.io/blog/anki-connectcha-jian-python-2/</id>
 
         <updated>2024-09-13T11:19:02+08:00</updated>
             <summary></summary>
@@ -26,8 +26,8 @@
         <author>
             <name>aoyama798</name>
         </author>
-        <link href="https://aoyama798.icu/ankicha-jian-fen-xiang/"/>
-        <id>https://aoyama798.icu/ankicha-jian-fen-xiang/</id>
+        <link href="https://aoyama798.github.io/blog/ankicha-jian-fen-xiang/"/>
+        <id>https://aoyama798.github.io/blog/ankicha-jian-fen-xiang/</id>
 
         <updated>2024-09-13T11:17:59+08:00</updated>
             <summary>
@@ -42,8 +42,8 @@
         <author>
             <name>aoyama798</name>
         </author>
-        <link href="https://aoyama798.icu/wu-xian-jin-bu/"/>
-        <id>https://aoyama798.icu/wu-xian-jin-bu/</id>
+        <link href="https://aoyama798.github.io/blog/wu-xian-jin-bu/"/>
+        <id>https://aoyama798.github.io/blog/wu-xian-jin-bu/</id>
 
         <updated>2024-09-10T19:19:10+08:00</updated>
             <summary>
@@ -58,8 +58,8 @@
         <author>
             <name>aoyama798</name>
         </author>
-        <link href="https://aoyama798.icu/ankitu-pian-cha-kan-qi-mo-ban/"/>
-        <id>https://aoyama798.icu/ankitu-pian-cha-kan-qi-mo-ban/</id>
+        <link href="https://aoyama798.github.io/blog/ankitu-pian-cha-kan-qi-mo-ban/"/>
+        <id>https://aoyama798.github.io/blog/ankitu-pian-cha-kan-qi-mo-ban/</id>
 
         <updated>2024-09-06T12:44:12+08:00</updated>
             <summary>
@@ -74,8 +74,8 @@
         <author>
             <name>aoyama798</name>
         </author>
-        <link href="https://aoyama798.icu/ge-ren-jian-jie/"/>
-        <id>https://aoyama798.icu/ge-ren-jian-jie/</id>
+        <link href="https://aoyama798.github.io/blog/ge-ren-jian-jie/"/>
+        <id>https://aoyama798.github.io/blog/ge-ren-jian-jie/</id>
 
         <updated>2024-09-06T11:09:07+08:00</updated>
             <summary>
@@ -90,8 +90,8 @@
         <author>
             <name>aoyama798</name>
         </author>
-        <link href="https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/"/>
-        <id>https://aoyama798.icu/he-xin-kao-an-shou-hou-bei-yong-lian-jie/</id>
+        <link href="https://aoyama798.github.io/blog/he-xin-kao-an-shou-hou-bei-yong-lian-jie/"/>
+        <id>https://aoyama798.github.io/blog/he-xin-kao-an-shou-hou-bei-yong-lian-jie/</id>
 
         <updated>2024-09-06T10:57:19+08:00</updated>
             <summary>
